@@ -1,5 +1,5 @@
-using Amazon.DynamoDBv2.DataModel;
 using Amazon.DynamoDBv2;
+using Amazon.DynamoDBv2.DataModel;
 
 var builder = WebApplication.CreateBuilder(args);
 

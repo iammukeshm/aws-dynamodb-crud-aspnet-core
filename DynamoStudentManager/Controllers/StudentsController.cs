@@ -1,7 +1,5 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
-using Amazon.DynamoDBv2.Model;
 using DynamoStudentManager.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DynamoStudentManager.Controllers;
